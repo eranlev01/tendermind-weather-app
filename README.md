@@ -42,9 +42,11 @@ Register: Click the "Sign-up" button to create an account if you haven't already
 
 Login: After registering, log in to the app using your credentials.
 
-Weather Page: Once logged in, you can view the weather for your current location on the Weather page.
+Weather Page: 
+  Once logged in, you can view the weather for your current location on the Weather page.
+  You can take pictures with your mobile device and keep a history of weather details along with the pictures.
 
-History Page: You can take pictures with your mobile device and keep a history of weather details along with the pictures. Access this history on the "History Page."
+History Page: On the history page, you can view your weather history as well as your photos.
 
 Enjoy using the TenderMind Weather App!
 
