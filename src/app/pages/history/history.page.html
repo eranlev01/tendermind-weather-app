@@ -1,0 +1,9 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title> History Page </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="main-content">
+<app-history-table *ngIf="weatherHistoryCollection" [weatherHistoryCollection]="weatherHistoryCollection"></app-history-table>
+</ion-content>

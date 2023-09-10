@@ -1,0 +1,22 @@
+* {
+  overflow: hidden;
+}
+
+html,
+body,
+:root {
+  height: 100%;
+  font-family: 'Inter', sans-serif;
+}
+
+ion-header {
+  ion-toolbar {
+    height: 80px; // Set the height of the toolbar
+  }
+}
+
+ion-content {
+  // Add padding-top to create space for the header
+  padding-top: 80px; // Should match the height of your header
+}
+

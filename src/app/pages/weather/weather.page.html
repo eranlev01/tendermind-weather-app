@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title> Weather Page </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="weather-main-content">
+    <app-weather-card
+      [weatherData]="weatherData"
+    ></app-weather-card>
+    <ion-button
+      slot="icon-only"
+      shape="round"
+      expand="full"
+      (click)="takePicture()"
+    >
+      <ion-icon name="camera-outline"></ion-icon>
+    </ion-button>
+  </div>
+</ion-content>

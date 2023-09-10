@@ -1,0 +1,39 @@
+ion-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+ion-button {
+    margin-top: 16px;
+}
+
+form {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ion-item {
+    margin: 5px 0;
+    --ion-input-border-color: #3498db;
+    width: 75vw;
+}
+
+ion-label {
+    color: #3498db;
+}
+
+ion-title {
+    text-align: center;
+}
+
+ion-button {
+    width: 50%;
+}
