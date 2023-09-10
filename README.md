@@ -37,7 +37,8 @@ ionic serve
 Open your web browser and go to http://localhost:8100/.
 
 ## How to Use the App
-Register: Click the "Sign-up" button to create an account if you haven't already.
+
+Register: Click the "Sign-up" button to create an account if you haven't already. Email verification is required (you will receive one)
 
 Login: After registering, log in to the app using your credentials.
 
